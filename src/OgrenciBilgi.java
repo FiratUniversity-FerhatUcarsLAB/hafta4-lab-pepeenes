@@ -1,7 +1,7 @@
 /*
- * Ad Soyad: [ADINIZ SOYADINIZ]
- * Ogrenci No: [NUMARANIZ]
- * Tarih: [TARIH]
+ * Ad Soyad: [Enes PEPE]
+ * Ogrenci No: [250541075]
+ * Tarih: [30.10.2025]
  * Aciklama: Ogrenci Bilgi Sistemi
  */
 
